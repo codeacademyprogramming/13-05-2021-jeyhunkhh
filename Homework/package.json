@@ -1,0 +1,17 @@
+{
+  "name": "@jeyhunkhh1/az-lang-number-to-word",
+  "version": "1.0.1",
+  "description": "Input number output word. 1 -> bir",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "number",
+    "word",
+    "convert"
+  ],
+  "author": "Jeyhunkhh",
+  "license": "ISC"
+}
